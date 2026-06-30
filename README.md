@@ -1,1 +1,1 @@
-Just me trying to learn python one basic at a time
+Just me trying to learn python one basic concept at a time
