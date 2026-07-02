@@ -2,7 +2,7 @@ import datetime, bday_messages
 
 today = datetime.date.today()
 
-next_birthday = datetime.date(2026, 12, 13)
+next_birthday = datetime.date(2026, 9, 23)
 
 print(type(next_birthday))
 
