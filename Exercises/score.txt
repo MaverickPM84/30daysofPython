@@ -1,0 +1,10 @@
+#day 1 - Exercise 1 to 9 = 1 point, Exercise 10 - 2 points
+
+
+
+score = 27
+
+Learnings - 
+- #got 11 wrong, will practice again
+- got 12 correct but learnt a list comprehension way 
+- 13 - Did not know map function, but should have solved using the list comprehension method.
