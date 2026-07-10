@@ -1,0 +1,6 @@
+2026-07-10 11:40:15,941:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:\Users\preet\OneDrive\Documents\30daysofPython\logging\main.py", line 56, in division
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
