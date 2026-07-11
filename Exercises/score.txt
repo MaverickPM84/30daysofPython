@@ -2,9 +2,12 @@
 
 
 
-score = 27
+score = 62
 
 Learnings - 
+
 - #got 11 wrong, will practice again
 - got 12 correct but learnt a list comprehension way 
 - 13 - Did not know map function, but should have solved using the list comprehension method.
+- practice 43 & 44 again, practice list and string slicing and iteration
+- check solution for 45, it explains how to create files in a folder.
