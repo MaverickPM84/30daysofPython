@@ -2,7 +2,7 @@
 
 
 
-score = 110
+score = 136
 
 Learnings - 
 
@@ -12,3 +12,5 @@ Learnings -
 - practice 43 & 44 again, practice list and string slicing and iteration
 - check solution for 45, it explains how to create files in a folder.
 - check 66, 67, 70 for elegant solution
+- check pandas problem - 73, 74, 75(alternate solutions - 751.py and 752.py)
+- check 79, 80 for while loop
